@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Sun Nov 18 21:54:58 2012
+# EESchema Netlist Version 1.1 created  Sun Nov 18 23:31:15 2012
 (
  ( /504CA3D1 GSG-0603 C1 1uF
   ( 1 GND )
@@ -214,7 +214,7 @@
   ( 1 N-000029 )
   ( 2 /P2_4 )
  )
- ( /504D0B94 GSG-0402 R13 0
+ ( /504D0B94 GSG-0603-SHORT-10MIL R13 0
   ( 1 3V3 )
   ( 2 N-000032 )
  )

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-05-21 BZR 3261)-stable date = Sun Nov 18 21:54:58 2012
+Cmp-Mod V01 Created by CvPcb (2012-05-21 BZR 3261)-stable date = Sun Nov 18 23:31:15 2012
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -368,7 +368,7 @@ BeginCmp
 TimeStamp = /504D0B94;
 Reference = R13;
 ValeurCmp = 0;
-IdModule  = GSG-0402;
+IdModule  = GSG-0603-SHORT-10MIL;
 EndCmp
 
 BeginCmp
