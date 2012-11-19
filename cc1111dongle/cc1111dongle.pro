@@ -1,4 +1,4 @@
-update=Fri Sep 14 08:04:52 2012
+update=Sun Nov 18 19:15:50 2012
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -73,20 +73,20 @@ LibName30=valves
 LibName31=cc1111
 [pcbnew]
 version=1
-PadDrlX=0
-PadDimH=394
-PadDimV=394
+PadDrlX=320
+PadDimH=600
+PadDimV=600
 BoardThickness=630
-TxtPcbV=400
-TxtPcbH=300
+TxtPcbV=800
+TxtPcbH=600
 TxtModV=600
 TxtModH=600
 TxtModW=120
-VEgarde=80
-DrawLar=98
-EdgeLar=98
-TxtLar=75
-MSegLar=80
+VEgarde=100
+DrawLar=150
+EdgeLar=150
+TxtLar=120
+MSegLar=150
 LastNetListRead=
 [pcbnew/libraries]
 LibDir=../kicad
