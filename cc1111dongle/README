@@ -3,3 +3,23 @@ This is an experimental design for a CC1111 USB dongle.
 This design was made with KiCad:
 
 http://www.kicad-pcb.org/
+
+order of copper layers:
+    Front
+    Layer2
+    Layer3
+    Back
+
+PCB description: 4 layer PCB 1.6 mm
+    Copper        1   35 um
+    Dielectric  1-2   0.35 mm
+    Copper        2   18 um
+    Dielectric  2-3   0.76 mm
+    Copper        3   18 um
+    Dielectric  3-4   0.35 mm
+    Copper        4   35 um
+FR4 or equivalent substrate (Er=4.2)
+double side solder mask black
+double side silkscreen white
+6 mil min trace width and
+6 mil min isolation
