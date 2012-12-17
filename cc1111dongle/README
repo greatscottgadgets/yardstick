@@ -11,13 +11,13 @@ order of copper layers:
     Back
 
 PCB description: 4 layer PCB 1.6 mm
-    Copper        1   35 um
-    Dielectric  1-2   0.35 mm
-    Copper        2   18 um
-    Dielectric  2-3   0.76 mm
-    Copper        3   18 um
-    Dielectric  3-4   0.35 mm
-    Copper        4   35 um
+    Copper        1   1 oz
+    Dielectric  1-2   7.8 mil
+    Copper        2   0.5 oz
+    Dielectric  2-3   39 mil
+    Copper        3   0.5 oz
+    Dielectric  3-4   7.8 mil
+    Copper        4   1 oz
 FR4 or equivalent substrate (Er=4.2)
 double side solder mask black
 double side silkscreen white
