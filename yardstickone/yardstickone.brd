@@ -1,6 +1,6 @@
-PCBNEW-BOARD Version 2 date Fri Jan 11 16:43:21 2013
+PCBNEW-BOARD Version 2 date Fri Feb  8 21:48:28 2013
 
-# Created by Pcbnew(2013-01-04 BZR 3890)-testing
+# Created by Pcbnew(2013-01-23 BZR 3920)-stable
 
 $GENERAL
 encoding utf-8
@@ -21,7 +21,7 @@ $EndGENERAL
 $SHEETDESCR
 Sheet User 6000 4000
 Title ""
-Date "11 jan 2013"
+Date "9 feb 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -3321,8 +3321,8 @@ Po 57.531 52.324 0.762 1.016 0.1905 0
 De 21 1 0 Normal
 $EndTEXTPCB
 $TEXTPCB
-Te "cc1111dongle"
-Po 58.166 38.989 0.762 1.016 0.1905 0
+Te "YARD Stick One"
+Po 57.531 38.989 0.762 1.016 0.1905 0
 De 21 1 0 Normal
 $EndTEXTPCB
 $TEXTPCB

@@ -30,7 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:cc1111
-LIBS:cc1111dongle-cache
+LIBS:yardstickone-cache
 EELAYER 27 0
 EELAYER END
 $Descr User 17000 11000
