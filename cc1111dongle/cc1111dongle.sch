@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon Dec 10 16:58:36 2012
+EESchema Schematic File Version 2  date Sun Jan  6 11:43:45 2013
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -37,7 +37,7 @@ $Descr User 17000 11000
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "10 dec 2012"
+Date "6 jan 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1699,7 +1699,7 @@ P 7700 4750
 F 0 "C9" H 7750 4850 50  0000 L CNN
 F 1 "2p2" H 7750 4650 50  0000 L CNN
 F 4 "Taiyo Yuden" H 7700 4750 60  0001 C CNN "Manufacturer"
-F 5 "UMK105CG2R2CW-F" H 7700 4750 60  0001 C CNN "Part Number"
+F 5 "UMK105CG2R2CV-F" H 7700 4750 60  0001 C CNN "Part Number"
 F 6 "CAP CER 2.2PF 50V NP0 0402" H 7700 4750 60  0001 C CNN "Description"
 	1    7700 4750
 	-1   0    0    1   
