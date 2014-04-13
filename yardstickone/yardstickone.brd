@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 2 date Sun 13 Apr 2014 12:40:54 PM MDT
+PCBNEW-BOARD Version 2 date Sun 13 Apr 2014 01:20:59 PM MDT
 
 # Created by Pcbnew(2012-nov-02)-stable
 
@@ -37,7 +37,7 @@ Layer[0] Back signal
 Layer[1] Layer3 signal
 Layer[2] Layer2 signal
 Layer[15] Front signal
-TrackWidth 0.3302
+TrackWidth 0.2032
 TrackWidthList 0.254
 TrackWidthList 0.3048
 TrackWidthList 0.3302
@@ -66,9 +66,8 @@ TextModSize 1.524 1.524
 TextModWidth 0.3048
 PadSize 0.7 0.2
 PadDrill 0
-Pad2MaskClearance 0.1524
+Pad2MaskClearance 0.0762
 SolderMaskMinWidth 0
-Pad2PasteClearanceRatio -0.12
 AuxiliaryAxisOrg 0 0
 VisibleElements FFFFFFBF
 PcbPlotParams (pcbplotparams (layerselection 284721159) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (psnegative false) (psa4output false) (plotreference false) (plotvalue false) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk true) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory ""))
