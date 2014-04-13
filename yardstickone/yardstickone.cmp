@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-11-24 BZR 3813)-stable date = Mon Dec 10 16:58:45 2012
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Sun 13 Apr 2014 12:11:00 PM MDT
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -255,8 +255,8 @@ EndCmp
 BeginCmp
 TimeStamp = /50A0883B;
 Reference = P2;
-ValeurCmp = BNC-CONN;
-IdModule  = GSG-V-BITE;
+ValeurCmp = SMA-EDGE;
+IdModule  = GSG-SMA-EDGE;
 EndCmp
 
 BeginCmp
