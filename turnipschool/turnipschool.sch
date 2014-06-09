@@ -36,11 +36,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "19 oct 2012"
+Title "TURNIPSCHOOL"
+Date "09 Jun 2014"
 Rev ""
-Comp ""
-Comment1 ""
+Comp "Copyright 2014 Dominic Spill, Michael Ossmann"
+Comment1 "License: GPL v2"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -67,9 +67,9 @@ F 0 "C6" H 9950 2700 50  0000 L CNN
 F 1 "10nF" H 9950 2500 50  0000 L CNN
 F 2 "" H 9900 2600 60  0001 C CNN
 F 3 "" H 9900 2600 60  0001 C CNN
-F 4 "Murata" H 9900 2600 60  0001 C CNN "Manufacturer"
-F 5 "GRM188R71H103KA01D" H 9900 2600 60  0001 C CNN "Part Number"
-F 6 "CAP CER 10000PF 50V 10% X7R 0603" H 9900 2600 60  0001 C CNN "Description"
+F 4 "Samsung Electro-Mechanics America, Inc" H 9900 2600 60  0001 C CNN "Manufacturer"
+F 5 "CL05B103KO5NCNC" H 9900 2600 60  0001 C CNN "Part Number"
+F 6 "CAP CER 10000PF 16V 10% X7R 0402" H 9900 2600 60  0001 C CNN "Description"
 	1    9900 2600
 	0    1    1    0   
 $EndComp
@@ -312,9 +312,9 @@ F 0 "R3" V 4630 2950 50  0000 C CNN
 F 1 "330" V 4550 2950 50  0000 C CNN
 F 2 "" H 4550 2950 60  0001 C CNN
 F 3 "" H 4550 2950 60  0001 C CNN
-F 4 "Stackpole" H 4550 2950 60  0001 C CNN "Manufacturer"
-F 5 "RMCF0603JT330R" H 4550 2950 60  0001 C CNN "Part Number"
-F 6 "RES 330 OHM 1/10W 5% 0603 SMD" H 4550 2950 60  0001 C CNN "Description"
+F 4 "Samsung Electro-Mechanics America, Inc" H 4550 2950 60  0001 C CNN "Manufacturer"
+F 5 "RC1005J331CS" H 4550 2950 60  0001 C CNN "Part Number"
+F 6 "RES 330 OHM 1/16W 5% 0402" H 4550 2950 60  0001 C CNN "Description"
 	1    4550 2950
 	-1   0    0    1   
 $EndComp
@@ -326,9 +326,9 @@ F 0 "D2" H 4550 3600 50  0000 C CNN
 F 1 "LED1" H 4550 3400 50  0000 C CNN
 F 2 "" H 4550 3500 60  0001 C CNN
 F 3 "" H 4550 3500 60  0001 C CNN
-F 4 "OSRAM" H 4550 3500 60  0001 C CNN "Manufacturer"
-F 5 "LG Q971-KN-1" H 4550 3500 60  0001 C CNN "Part Number"
-F 6 "LED CHIPLED 570NM GREEN 0603 SMD" H 4550 3500 60  0001 C CNN "Description"
+F 4 "Rohm" H 4550 3500 60  0001 C CNN "Manufacturer"
+F 5 "SML-P12PTT86" H 4550 3500 60  0001 C CNN "Part Number"
+F 6 "LED GREEN 0.2MM 13MCD 0402 SMD" H 4550 3500 60  0001 C CNN "Description"
 	1    4550 3500
 	0    1    1    0   
 $EndComp
@@ -342,9 +342,9 @@ F 0 "R1" V 6080 1050 50  0000 C CNN
 F 1 "10k" V 6000 1050 50  0000 C CNN
 F 2 "" H 6000 1050 60  0001 C CNN
 F 3 "" H 6000 1050 60  0001 C CNN
-F 4 "Stackpole" H 6000 1050 60  0001 C CNN "Manufacturer"
-F 5 "RMCF0603JT10K0" H 6000 1050 60  0001 C CNN "Part Number"
-F 6 "RES 10K OHM 1/10W 5% 0603 SMD" H 6000 1050 60  0001 C CNN "Description"
+F 4 "TE Connectivity" H 6000 1050 60  0001 C CNN "Manufacturer"
+F 5 "1622826-4" H 6000 1050 60  0001 C CNN "Part Number"
+F 6 "RES 10.0K OHM 1/16W 5% 0402" H 6000 1050 60  0001 C CNN "Description"
 	1    6000 1050
 	-1   0    0    1   
 $EndComp
@@ -391,9 +391,9 @@ F 0 "C14" H 9850 4550 50  0000 L CNN
 F 1 "4u7" H 9850 4350 50  0000 L CNN
 F 2 "" H 9800 4450 60  0001 C CNN
 F 3 "" H 9800 4450 60  0001 C CNN
-F 4 "Taiyo Yuden" H 9800 4450 60  0001 C CNN "Manufacturer"
-F 5 "JMK107BJ475KA-T" H 9800 4450 60  0001 C CNN "Part Number"
-F 6 "CAP CER 4.7UF 6.3V 10% X5R 0603" H 9800 4450 60  0001 C CNN "Description"
+F 4 "Samsung Electro-Mechanics America, Inc" H 9800 4450 60  0001 C CNN "Manufacturer"
+F 5 "CL05A475MQ5NRNC" H 9800 4450 60  0001 C CNN "Part Number"
+F 6 "	CAP CER 4.7UF 6.3V 20% X5R 0402" H 9800 4450 60  0001 C CNN "Description"
 	1    9800 4450
 	1    0    0    -1  
 $EndComp
@@ -405,9 +405,9 @@ F 0 "C13" H 9350 4450 50  0000 L CNN
 F 1 "1uF" H 9350 4250 50  0000 L CNN
 F 2 "" H 9300 4350 60  0001 C CNN
 F 3 "" H 9300 4350 60  0001 C CNN
-F 4 "Taiyo Yuden" H 9300 4350 60  0001 C CNN "Manufacturer"
-F 5 "LMK107B7105KA-T" H 9300 4350 60  0001 C CNN "Part Number"
-F 6 "CAP CER 1UF 10V 10% X7R 0603" H 9300 4350 60  0001 C CNN "Description"
+F 4 "Samsung Electro-Mechanics America, Inc" H 9300 4350 60  0001 C CNN "Manufacturer"
+F 5 "CL05A105JQ5NNNC" H 9300 4350 60  0001 C CNN "Part Number"
+F 6 "CAP CER 1UF 6.3V 5% X5R 0402" H 9300 4350 60  0001 C CNN "Description"
 	1    9300 4350
 	1    0    0    -1  
 $EndComp
@@ -644,9 +644,9 @@ F 0 "C1" H 6300 1050 50  0000 L CNN
 F 1 "1uF" H 6300 850 50  0000 L CNN
 F 2 "" H 6250 950 60  0001 C CNN
 F 3 "" H 6250 950 60  0001 C CNN
-F 4 "Taiyo Yuden" H 6250 950 60  0001 C CNN "Manufacturer"
-F 5 "LMK107B7105KA-T" H 6250 950 60  0001 C CNN "Part Number"
-F 6 "CAP CER 1UF 10V 10% X7R 0603" H 6250 950 60  0001 C CNN "Description"
+F 4 "Samsung Electro-Mechanics America, Inc" H 6250 950 60  0001 C CNN "Manufacturer"
+F 5 "CL05A105JQ5NNNC" H 6250 950 60  0001 C CNN "Part Number"
+F 6 "CAP CER 1UF 6.3V 5% X5R 0402" H 6250 950 60  0001 C CNN "Description"
 	1    6250 950 
 	1    0    0    -1  
 $EndComp
@@ -694,6 +694,9 @@ F 0 "C10" H 7600 4200 50  0000 L CNN
 F 1 "22pF" H 7600 4000 50  0000 L CNN
 F 2 "" H 7550 4100 60  0001 C CNN
 F 3 "" H 7550 4100 60  0001 C CNN
+F 4 "Samsung Electro-Mechanics America, Inc" H 7550 4100 60  0001 C CNN "Manufacturer"
+F 5 "CL05C220JB5NNNC" H 7550 4100 60  0001 C CNN "Part Number"
+F 6 "CAP CER 22PF 50V 5% NP0 0402" H 7550 4100 60  0001 C CNN "Description"
 	1    7550 4100
 	1    0    0    -1  
 $EndComp
@@ -730,9 +733,9 @@ F 0 "R6" V 6230 4300 50  0000 C CNN
 F 1 "10k" V 6150 4300 50  0000 C CNN
 F 2 "" H 6150 4300 60  0001 C CNN
 F 3 "" H 6150 4300 60  0001 C CNN
-F 4 "Stackpole" H 6150 4300 60  0001 C CNN "Manufacturer"
-F 5 "RMCF0603JT10K0" H 6150 4300 60  0001 C CNN "Part Number"
-F 6 "RES 10K OHM 1/10W 5% 0603 SMD" H 6150 4300 60  0001 C CNN "Description"
+F 4 "TE Connectivity" H 6150 4300 60  0001 C CNN "Manufacturer"
+F 5 "1622826-4" H 6150 4300 60  0001 C CNN "Part Number"
+F 6 "RES 10.0K OHM 1/16W 5% 0402" H 6150 4300 60  0001 C CNN "Description"
 	1    6150 4300
 	-1   0    0    1   
 $EndComp
@@ -1144,7 +1147,9 @@ F 0 "C19" H 750 5450 40  0000 L CNN
 F 1 "1uF" H 756 5265 40  0000 L CNN
 F 2 "" H 788 5200 30  0000 C CNN
 F 3 "" H 750 5350 60  0000 C CNN
-F 4 "Taiyo Yuden" H 750 5350 60  0001 C CNN "Manufacturer"
+F 4 "Samsung Electro-Mechanics America, Inc" H 750 5350 60  0001 C CNN "Manufacturer"
+F 5 "CL05A105JQ5NNNC" H 750 5350 60  0001 C CNN "Part Number"
+F 6 "CAP CER 1UF 6.3V 5% X5R 0402" H 750 5350 60  0001 C CNN "Description"
 	1    750  5350
 	1    0    0    -1  
 $EndComp
@@ -1279,13 +1284,16 @@ F 6 "FERRITE CHIP 220 OHM 2000MA 0805" H 1450 4350 60  0001 C CNN "Description"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L USB-DEVICE-SHIELD J2
+L USB-DEVICE-SHIELD J1
 U 1 1 539201B4
 P 1150 3700
-F 0 "J2" H 1200 4000 60  0000 C CNN
+F 0 "J1" H 1200 4000 60  0000 C CNN
 F 1 "USB-DEVICE-SHIELD" V 1450 3700 60  0000 C CNN
 F 2 "" H 1150 3750 60  0000 C CNN
 F 3 "" H 1150 3750 60  0000 C CNN
+F 4 "Keystone Electronics" H 1150 3700 60  0001 C CNN "Manufacturer"
+F 5 "931" H 1150 3700 60  0001 C CNN "Part Number"
+F 6 "CONN PLUG USB A-TYPE SMD" H 1150 3700 60  0001 C CNN "Description"
 	1    1150 3700
 	-1   0    0    1   
 $EndComp
@@ -1339,9 +1347,9 @@ F 0 "R7" V 2130 3800 40  0000 C CNN
 F 1 "330" V 2057 3801 40  0000 C CNN
 F 2 "" V 1980 3800 30  0000 C CNN
 F 3 "" H 2050 3800 30  0000 C CNN
-F 4 "Stackpole" H 2050 3800 60  0001 C CNN "Manufacturer"
-F 5 "RMCF0603JT330R" H 2050 3800 60  0001 C CNN "Part Number"
-F 6 "RES 330 OHM 1/10W 5% 0603 SMD" H 2050 3800 60  0001 C CNN "Description"
+F 4 "Samsung Electro-Mechanics America, Inc" H 2050 3800 60  0001 C CNN "Manufacturer"
+F 5 "RC1005J331CS" H 2050 3800 60  0001 C CNN "Part Number"
+F 6 "RES 330 OHM 1/16W 5% 0402" H 2050 3800 60  0001 C CNN "Description"
 	1    2050 3800
 	1    0    0    -1  
 $EndComp
@@ -1403,9 +1411,9 @@ F 0 "R5" V 5480 4050 50  0000 C CNN
 F 1 "33" V 5400 4050 50  0000 C CNN
 F 2 "" H 5400 4050 60  0001 C CNN
 F 3 "" H 5400 4050 60  0001 C CNN
-F 4 "Rohm" H 5400 4050 60  0001 C CNN "Manufacturer"
-F 5 "MCR03ERTF33R0" H 5400 4050 60  0001 C CNN "Part Number"
-F 6 "RES 33.0 OHM 1/10W 1% 0603 SMD" H 5400 4050 60  0001 C CNN "Description"
+F 4 "Samsung Electro-Mechanics America, Inc" H 5400 4050 60  0001 C CNN "Manufacturer"
+F 5 "RC1005J330CS" H 5400 4050 60  0001 C CNN "Part Number"
+F 6 "RES 33 OHM 1/16W 5% 0402" H 5400 4050 60  0001 C CNN "Description"
 	1    5400 4050
 	0    -1   -1   0   
 $EndComp
@@ -1417,9 +1425,9 @@ F 0 "R4" V 5480 3900 50  0000 C CNN
 F 1 "33" V 5400 3900 50  0000 C CNN
 F 2 "" H 5400 3900 60  0001 C CNN
 F 3 "" H 5400 3900 60  0001 C CNN
-F 4 "Rohm" H 5400 3900 60  0001 C CNN "Manufacturer"
-F 5 "MCR03ERTF33R0" H 5400 3900 60  0001 C CNN "Part Number"
-F 6 "RES 33.0 OHM 1/10W 1% 0603 SMD" H 5400 3900 60  0001 C CNN "Description"
+F 4 "Samsung Electro-Mechanics America, Inc" H 5400 3900 60  0001 C CNN "Manufacturer"
+F 5 "RC1005J330CS" H 5400 3900 60  0001 C CNN "Part Number"
+F 6 "RES 33 OHM 1/16W 5% 0402" H 5400 3900 60  0001 C CNN "Description"
 	1    5400 3900
 	0    -1   -1   0   
 $EndComp
