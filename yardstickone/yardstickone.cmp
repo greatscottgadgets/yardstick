@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Sun 13 Apr 2014 12:11:00 PM MDT
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Wed 25 Jun 2014 01:45:35 AM MDT
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -235,7 +235,7 @@ BeginCmp
 TimeStamp = /50A0781E;
 Reference = J1;
 ValeurCmp = USB-DEVICE;
-IdModule  = GSG-USB-A-1001-010-01001;
+IdModule  = GSG-USB-A-1001-010-01001-SHIELD;
 EndCmp
 
 BeginCmp
