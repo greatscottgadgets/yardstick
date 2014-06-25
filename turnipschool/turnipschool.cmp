@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Wed 25 Jun 2014 02:26:18 AM MDT
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Wed 25 Jun 2014 03:18:48 AM MDT
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -221,35 +221,35 @@ BeginCmp
 TimeStamp = /504D0B57;
 Reference = P2;
 ValeurCmp = RESET_N;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = GSG-TESTPOINT-50MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B60;
 Reference = P3;
 ValeurCmp = DD;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = GSG-TESTPOINT-50MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B62;
 Reference = P4;
 ValeurCmp = DC;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = GSG-TESTPOINT-50MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B63;
 Reference = P5;
 ValeurCmp = 3V3;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = GSG-TESTPOINT-50MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B65;
 Reference = P6;
 ValeurCmp = GND;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = GSG-TESTPOINT-50MIL;
 EndCmp
 
 BeginCmp
