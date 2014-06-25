@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Wed 25 Jun 2014 01:48:35 AM MDT
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Wed 25 Jun 2014 02:26:18 AM MDT
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -214,7 +214,7 @@ BeginCmp
 TimeStamp = /5390827C;
 Reference = P1;
 ValeurCmp = CONN_1;
-IdModule  = GSG-HEADER-1x1;
+IdModule  = GSG-50MIL-HEADER-1x1-TH;
 EndCmp
 
 BeginCmp
@@ -256,35 +256,35 @@ BeginCmp
 TimeStamp = /538F049F;
 Reference = P7;
 ValeurCmp = CONN_1;
-IdModule  = GSG-HEADER-1x1;
+IdModule  = GSG-50MIL-HEADER-1x1-TH;
 EndCmp
 
 BeginCmp
 TimeStamp = /538F04B3;
 Reference = P8;
 ValeurCmp = CONN_1;
-IdModule  = GSG-HEADER-1x1;
+IdModule  = GSG-50MIL-HEADER-1x1-TH;
 EndCmp
 
 BeginCmp
 TimeStamp = /538F04C7;
 Reference = P9;
 ValeurCmp = CONN_1;
-IdModule  = GSG-HEADER-1x1;
+IdModule  = GSG-50MIL-HEADER-1x1-TH;
 EndCmp
 
 BeginCmp
 TimeStamp = /538F04DB;
 Reference = P10;
 ValeurCmp = CONN_1;
-IdModule  = GSG-HEADER-1x1;
+IdModule  = GSG-50MIL-HEADER-1x1-TH;
 EndCmp
 
 BeginCmp
 TimeStamp = /5392089E;
 Reference = P11;
 ValeurCmp = CONN_1;
-IdModule  = GSG-HEADER-1x1;
+IdModule  = GSG-50MIL-HEADER-1x1-TH;
 EndCmp
 
 BeginCmp
