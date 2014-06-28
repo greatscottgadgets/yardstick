@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 2 date Sat 28 Jun 2014 04:54:25 PM MDT
+PCBNEW-BOARD Version 2 date Sat 28 Jun 2014 05:06:41 PM MDT
 
 # Created by Pcbnew(2012-nov-02)-stable
 
@@ -7,11 +7,11 @@ encoding utf-8
 Units mm
 LayerCount 4
 EnabledLayers 1FFF8007
-VisibleLayers 1FDF8003
+VisibleLayers 1FFF0001
 Links 162
 NoConn 2
 Di 75.098399 80.319778 123.301601 99.680222
-Ndraw 18
+Ndraw 20
 Ntrack 437
 Nzone 0
 BoardThickness 1.6002
@@ -70,7 +70,7 @@ Pad2MaskClearance 0.0762
 SolderMaskMinWidth 0
 Pad2PasteClearanceRatio -0.12
 AuxiliaryAxisOrg 0 0
-VisibleElements FFFFFFBF
+VisibleElements FFFFDFBF
 PcbPlotParams (pcbplotparams (layerselection 284983303) (usegerberextensions true) (excludeedgelayer false) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (psnegative false) (psa4output false) (plotreference false) (plotvalue false) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory gerbers))
 $EndSETUP
 
@@ -2740,9 +2740,9 @@ Le 0.1651
 $EndPAD
 $EndMODULE GSG-TESTPOINT-50MIL
 $MODULE GSG-TESTPOINT-50MIL
-Po 107.8 86.4 0 0 53AA93E1 53AA7171 ~~
+Po 107.82 85.87 0 0 53AA93E1 53AF4A5C ~~
 Li GSG-TESTPOINT-50MIL
-Sc 53AA7171
+Sc 53AF4A5C
 AR /504D0B63
 Op 0 0 0
 T0 0 0 0.381 0.381 0 0.09652 M V 20 N "P5"
@@ -2900,6 +2900,17 @@ Po -0.68 0.5
 Le -2147.483648
 $EndPAD
 $EndMODULE GSG-XTAL2.0x1.6mm
+$TEXTPCB
+Te "TURNIPSCHOOL"
+Po 104.65 87.64 0.6096 0.7112 0.127 0
+De 20 0 0 Normal
+$EndTEXTPCB
+$TEXTPCB
+Te "2014"
+nl "0628"
+Po 97.37 86.45 0.762 0.762 0.1524 0
+De 21 1 0 Normal
+$EndTEXTPCB
 $DRAWSEGMENT
 Po 0 112.5 87.5 112.5 92.5 0.381
 De 28 0 900 0 0
@@ -3125,6 +3136,12 @@ Po 0 99.7 84.6666 100.6936 84.6666 0.127 -1
 De 0 0 7 0 0
 Po 0 100.6936 84.6666 100.811 84.784 0.127 -1
 De 0 0 7 53AA98F5 0
+Po 0 106.25 86.31 106.69 85.87 0.127 -1
+De 0 0 8 0 0
+Po 3 106.25 86.31 106.25 86.31 0.4572 -1
+De 15 1 8 0 0
+Po 0 106.69 85.87 107.82 85.87 0.127 -1
+De 0 0 8 53AF4A6D 800000
 Po 0 103.49924 92.90068 103.49924 93.36584 0.127 -1
 De 15 0 8 0 0
 Po 0 103.49924 93.36584 104.4 94.2666 0.127 -1
@@ -3201,12 +3218,6 @@ Po 3 92.45 90.45 92.45 90.45 0.4572 -1
 De 15 1 8 0 0
 Po 0 92.6666 90.6666 92.45 90.45 0.127 -1
 De 0 0 8 53AF36C1 0
-Po 0 106.25 86.31 107.71 86.31 0.127 -1
-De 0 0 8 0 0
-Po 3 106.25 86.31 106.25 86.31 0.4572 -1
-De 15 1 8 0 0
-Po 0 107.71 86.31 107.8 86.4 0.127 -1
-De 0 0 8 53AF2BC5 0
 Po 0 106.25 86.31 106.25 85.8834 0.127 -1
 De 15 0 8 0 0
 Po 0 106.25 85.8834 106.4 85.7334 0.127 -1
@@ -3272,9 +3283,9 @@ De 15 0 8 0 0
 Po 0 105.9834 95.3334 105.2 94.55 0.127 -1
 De 15 0 8 53AA97A9 0
 Po 0 96.26 85.58 95.34012 86.49988 0.127 -1
-De 0 0 9 0 C00000
+De 0 0 9 0 0
 Po 0 95.34012 86.49988 95.00126 86.49988 0.127 -1
-De 0 0 9 53AF4794 C00000
+De 0 0 9 53AF4794 0
 Po 0 104.4 95.3334 104.7666 95.3334 0.127 -1
 De 15 0 9 0 0
 Po 3 105 95.1 105 95.1 0.4572 -1
