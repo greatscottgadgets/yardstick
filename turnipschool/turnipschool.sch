@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sat 28 Jun 2014 03:22:06 PM MDT
+EESchema Schematic File Version 2  date Sat 28 Jun 2014 03:51:29 PM MDT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -659,11 +659,11 @@ $EndComp
 $Comp
 L GND #PWR031
 U 1 1 538F25AE
-P 4350 6900
-F 0 "#PWR031" H 4350 6900 30  0001 C CNN
-F 1 "GND" H 4350 6830 30  0001 C CNN
-	1    4350 6900
-	1    0    0    -1  
+P 4900 5050
+F 0 "#PWR031" H 4900 5050 30  0001 C CNN
+F 1 "GND" H 4900 4980 30  0001 C CNN
+	1    4900 5050
+	0    -1   -1   0   
 $EndComp
 $Comp
 L R R15
@@ -1290,10 +1290,10 @@ F 6 "CRYSTAL HYBRID 24MHZ 6PF SMD" H 3450 3400 60  0001 C CNN "Description"
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR?
+L GND #PWR057
 U 1 1 53AF314C
 P 3550 3800
-F 0 "#PWR?" H 3550 3800 30  0001 C CNN
+F 0 "#PWR057" H 3550 3800 30  0001 C CNN
 F 1 "GND" H 3550 3730 30  0001 C CNN
 	1    3550 3800
 	1    0    0    -1  
@@ -1307,21 +1307,13 @@ Wire Wire Line
 Wire Wire Line
 	3050 3900 3400 3900
 Wire Wire Line
-	3050 3050 3050 3150
-Wire Wire Line
-	3050 3150 3050 3400
-Wire Wire Line
-	3050 3400 3050 3900
+	3050 3050 3050 3900
 Wire Wire Line
 	3500 3900 3500 4550
 Wire Wire Line
 	3850 3900 3500 3900
 Wire Wire Line
-	3850 3050 3850 3150
-Wire Wire Line
-	3850 3150 3850 3400
-Wire Wire Line
-	3850 3400 3850 3900
+	3850 3050 3850 3900
 Wire Wire Line
 	7350 6350 7450 6350
 Wire Wire Line
@@ -1352,11 +1344,9 @@ Wire Wire Line
 Wire Wire Line
 	8350 2900 7050 2900
 Wire Wire Line
-	8350 2900 8350 3800
+	8350 2900 8350 3900
 Wire Wire Line
-	8350 3800 8350 3900
-Wire Wire Line
-	6650 7200 6650 7150
+	6650 7150 6650 7200
 Connection ~ 6650 7150
 Wire Wire Line
 	6300 7200 6300 7150
@@ -1367,8 +1357,6 @@ Wire Wire Line
 	3750 7050 3750 6850
 Wire Wire Line
 	4150 7050 4200 7050
-Wire Wire Line
-	4350 6850 4350 6900
 Wire Wire Line
 	2750 7000 2600 7000
 Wire Wire Line
@@ -1422,9 +1410,7 @@ Wire Wire Line
 Wire Wire Line
 	1600 3600 1350 3600
 Wire Wire Line
-	1350 3500 2050 3500
-Wire Wire Line
-	2050 3500 2350 3500
+	1350 3500 2350 3500
 Wire Wire Line
 	8900 5500 8900 5600
 Wire Wire Line
@@ -1434,11 +1420,7 @@ Wire Wire Line
 Wire Wire Line
 	10100 2600 10400 2600
 Wire Wire Line
-	6050 7150 6300 7150
-Wire Wire Line
-	6300 7150 6650 7150
-Wire Wire Line
-	6650 7150 6800 7150
+	6050 7150 6800 7150
 Wire Wire Line
 	3050 2650 3050 2550
 Wire Wire Line
@@ -1455,9 +1437,7 @@ Wire Wire Line
 	750  5150 1000 5150
 Connection ~ 1000 5750
 Wire Wire Line
-	1000 5650 1000 5750
-Wire Wire Line
-	1000 5750 1000 5850
+	1000 5650 1000 5850
 Wire Wire Line
 	2500 5750 1000 5750
 Wire Wire Line
@@ -1468,9 +1448,7 @@ Connection ~ 1950 5850
 Wire Wire Line
 	1950 5950 1950 5850
 Wire Wire Line
-	1900 5850 1950 5850
-Wire Wire Line
-	1950 5850 2500 5850
+	1900 5850 2500 5850
 Wire Wire Line
 	1750 5150 1750 5100
 Wire Wire Line
@@ -1490,9 +1468,7 @@ Wire Wire Line
 Wire Wire Line
 	4800 5500 5150 5500
 Wire Wire Line
-	4550 7050 4850 7050
-Wire Wire Line
-	4850 7050 4950 7050
+	4550 7050 4950 7050
 Wire Wire Line
 	4950 7150 4850 7150
 Wire Wire Line
@@ -1513,10 +1489,6 @@ Wire Wire Line
 	3450 6950 3450 6850
 Wire Wire Line
 	3450 7550 3450 7450
-Wire Wire Line
-	4800 3900 4800 5400
-Wire Wire Line
-	5150 3900 4800 3900
 Wire Wire Line
 	5150 4550 3900 4550
 Wire Wire Line
@@ -1544,9 +1516,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 2400 5050 2400
 Wire Wire Line
-	4750 2100 4750 2200
-Wire Wire Line
-	4750 2200 4750 2400
+	4750 2100 4750 2400
 Wire Wire Line
 	4650 2200 4750 2200
 Wire Wire Line
@@ -1570,9 +1540,7 @@ Connection ~ 8150 2500
 Wire Wire Line
 	8150 2400 8150 2500
 Wire Wire Line
-	7050 2500 8150 2500
-Wire Wire Line
-	8150 2500 8250 2500
+	7050 2500 8250 2500
 Wire Wire Line
 	8150 1900 8150 2000
 Wire Wire Line
@@ -1584,9 +1552,7 @@ Wire Wire Line
 	7150 3700 7150 3600
 Connection ~ 5850 4300
 Wire Wire Line
-	5850 3700 5850 4300
-Wire Wire Line
-	5850 4300 5850 4400
+	5850 3700 5850 4400
 Wire Wire Line
 	5750 4300 5850 4300
 Wire Wire Line
@@ -1608,9 +1574,7 @@ Connection ~ 7550 3800
 Wire Wire Line
 	7650 3800 7550 3800
 Wire Wire Line
-	7050 3100 7150 3100
-Wire Wire Line
-	7150 3100 7250 3100
+	7050 3100 7250 3100
 Wire Wire Line
 	8800 2750 8900 2750
 Wire Wire Line
@@ -1638,11 +1602,7 @@ Wire Wire Line
 Wire Wire Line
 	6350 1600 6350 1700
 Wire Wire Line
-	6350 1600 6450 1600
-Wire Wire Line
-	6450 1600 6550 1600
-Wire Wire Line
-	6550 1600 6650 1600
+	6350 1600 6650 1600
 Wire Wire Line
 	6550 1600 6550 1500
 Connection ~ 6550 1600
@@ -1653,38 +1613,26 @@ Connection ~ 7150 3100
 Wire Wire Line
 	7550 3000 7050 3000
 Wire Wire Line
-	7550 3000 7550 3800
+	7550 3000 7550 3900
 Wire Wire Line
-	7550 3800 7550 3900
-Wire Wire Line
-	8700 2800 8700 3100
-Wire Wire Line
-	8700 3100 8700 3200
+	8700 2800 8700 3200
 Wire Wire Line
 	8700 3700 8700 3600
 Wire Wire Line
-	7050 2400 7750 2400
+	7050 2400 7850 2400
 Wire Wire Line
-	7750 2400 7850 2400
-Wire Wire Line
-	9700 4150 9800 4150
-Wire Wire Line
-	9800 4150 9900 4150
+	9700 4150 9900 4150
 Connection ~ 9800 4150
 Wire Wire Line
 	11000 4100 10900 4100
 Connection ~ 9300 4050
 Wire Wire Line
-	5700 1400 6000 1400
-Wire Wire Line
-	6000 1400 6150 1400
+	5700 1400 6150 1400
 Connection ~ 6000 1400
 Wire Wire Line
 	4550 3800 4550 3700
 Wire Wire Line
-	9050 4050 9300 4050
-Wire Wire Line
-	9300 4050 9900 4050
+	9050 4050 9900 4050
 Wire Wire Line
 	4550 3300 4550 3200
 Wire Wire Line
@@ -1708,10 +1656,10 @@ F 6 "CRYSTAL 48MHZ 10PF SMD" H 7950 3800 60  0001 C CNN "Description"
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR?
+L GND #PWR058
 U 1 1 53AF37B3
 P 8050 4200
-F 0 "#PWR?" H 8050 4200 30  0001 C CNN
+F 0 "#PWR058" H 8050 4200 30  0001 C CNN
 F 1 "GND" H 8050 4130 30  0001 C CNN
 	1    8050 4200
 	1    0    0    -1  
@@ -1720,4 +1668,12 @@ Wire Wire Line
 	7850 4100 7850 4200
 Wire Wire Line
 	8050 4200 8050 4100
+Wire Wire Line
+	4800 5050 4900 5050
+Wire Wire Line
+	5150 3900 5050 3900
+Wire Wire Line
+	5050 3900 5050 5400
+Wire Wire Line
+	5050 5400 4800 5400
 $EndSCHEMATC
