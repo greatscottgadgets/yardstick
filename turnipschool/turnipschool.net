@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/mossmann/github/cc11xx/turnipschool/turnipschool.sch)
-    (date "Sat 28 Jun 2014 03:51:33 PM MDT")
+    (date "Sat 28 Jun 2014 05:15:58 PM MDT")
     (tool "eeschema (2012-nov-02)-stable"))
   (components
     (comp (ref C7)
@@ -522,17 +522,6 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 53AF3706)))
   (libparts
-    (libpart (lib cc1111) (part GSG-XTAL4PIN)
-      (fields
-        (field (name Reference) X)
-        (field (name Value) GSG-XTAL4PIN)
-        (field (name Footprint) ~)
-        (field (name Datasheet) ~))
-      (pins
-        (pin (num 1) (name 1) (type passive))
-        (pin (num 2) (name 2) (type passive))
-        (pin (num 3) (name 3) (type passive))
-        (pin (num 4) (name 4) (type passive))))
     (libpart (lib device) (part C)
       (description "Condensateur non polarise")
       (footprints
@@ -670,6 +659,17 @@
         (pin (num 34) (name P1_5) (type BiDi))
         (pin (num 35) (name P1_4) (type BiDi))
         (pin (num 36) (name P1_3) (type BiDi))))
+    (libpart (lib cc1111) (part GSG-XTAL4PIN)
+      (fields
+        (field (name Reference) X)
+        (field (name Value) GSG-XTAL4PIN)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~))
+      (pins
+        (pin (num 1) (name 1) (type passive))
+        (pin (num 2) (name 2) (type passive))
+        (pin (num 3) (name 3) (type passive))
+        (pin (num 4) (name 4) (type passive))))
     (libpart (lib cc1111) (part USB-DEVICE-SHIELD)
       (fields
         (field (name Reference) J)
