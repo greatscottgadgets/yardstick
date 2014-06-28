@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Wed 25 Jun 2014 03:18:48 AM MDT
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Sat 28 Jun 2014 02:44:40 PM MDT
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -253,38 +253,10 @@ IdModule  = GSG-TESTPOINT-50MIL;
 EndCmp
 
 BeginCmp
-TimeStamp = /538F049F;
+TimeStamp = /53AF289A;
 Reference = P7;
-ValeurCmp = CONN_1;
-IdModule  = GSG-50MIL-HEADER-1x1-TH;
-EndCmp
-
-BeginCmp
-TimeStamp = /538F04B3;
-Reference = P8;
-ValeurCmp = CONN_1;
-IdModule  = GSG-50MIL-HEADER-1x1-TH;
-EndCmp
-
-BeginCmp
-TimeStamp = /538F04C7;
-Reference = P9;
-ValeurCmp = CONN_1;
-IdModule  = GSG-50MIL-HEADER-1x1-TH;
-EndCmp
-
-BeginCmp
-TimeStamp = /538F04DB;
-Reference = P10;
-ValeurCmp = CONN_1;
-IdModule  = GSG-50MIL-HEADER-1x1-TH;
-EndCmp
-
-BeginCmp
-TimeStamp = /5392089E;
-Reference = P11;
-ValeurCmp = CONN_1;
-IdModule  = GSG-50MIL-HEADER-1x1-TH;
+ValeurCmp = CABLE;
+IdModule  = GSG-50MIL-HEADER-1x5-TH;
 EndCmp
 
 BeginCmp
