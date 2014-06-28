@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Sat 28 Jun 2014 02:44:40 PM MDT
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Sat 28 Jun 2014 03:22:17 PM MDT
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -400,16 +400,16 @@ IdModule  = GSG-U-DFN2020-6;
 EndCmp
 
 BeginCmp
-TimeStamp = /5394E402;
+TimeStamp = /53AF3706;
 Reference = X1;
-ValeurCmp = CRYSTAL;
+ValeurCmp = GSG-XTAL4PIN;
 IdModule  = GSG-XTAL2.0x1.6mm;
 EndCmp
 
 BeginCmp
-TimeStamp = /5394E943;
+TimeStamp = /53AF30FD;
 Reference = X2;
-ValeurCmp = CRYSTAL;
+ValeurCmp = GSG-XTAL4PIN;
 IdModule  = GSG-XTAL2.0x1.6mm;
 EndCmp
 

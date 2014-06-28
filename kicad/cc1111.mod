@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sat 28 Jun 2014 02:41:43 PM MDT
+PCBNEW-LibModule-V1  Sat 28 Jun 2014 03:30:10 PM MDT
 # encoding utf-8
 Units mm
 $INDEX
@@ -2950,7 +2950,7 @@ Po -1.84912 0
 $EndPAD
 $EndMODULE GSG-XTAL-TXC-7A
 $MODULE GSG-XTAL2.0x1.6mm
-Po 0 0 0 15 53AA7C4C 00000000 ~~
+Po 0 0 0 15 53AF33DE 00000000 ~~
 Li GSG-XTAL2.0x1.6mm
 Sc 0
 AR xtal3.2x2.5mm
@@ -2962,35 +2962,35 @@ DS 1 -0.8 1 0.8 0.2032 21
 DS 1 0.8 -1 0.8 0.2032 21
 DS -1 0.8 -1 -0.8 0.2032 21
 $PAD
-Sh "1" R 0.75 0.7 0 0 0
+Sh "1" R 0.74 0.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.675 0.5
+Po -0.68 0.5
 Le 0.08128
 $EndPAD
 $PAD
-Sh "3" R 0.75 0.7 0 0 0
+Sh "3" R 0.74 0.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.675 -0.5
+Po 0.68 -0.5
 Le 0.08382
 $EndPAD
 $PAD
-Sh "2" R 0.75 0.7 0 0 0
+Sh "2" R 0.74 0.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.675 0.5
+Po 0.68 0.5
 Le -2147.483648
 $EndPAD
 $PAD
-Sh "4" R 0.75 0.7 0 0 0
+Sh "4" R 0.74 0.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.675 -0.5
+Po -0.68 -0.5
 Le -2147.483648
 $EndPAD
 $EndMODULE GSG-XTAL2.0x1.6mm
