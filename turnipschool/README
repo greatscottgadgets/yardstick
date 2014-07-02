@@ -7,24 +7,25 @@ https://code.google.com/p/rfcat/
 This design was made with KiCad:
 http://www.kicad-pcb.org/
 
-This is uncertain yet, but will likely be the case (copied from Yardstick One):
-
 order of copper layers:
-    Front
-    Layer2
-    Layer3
-    Back
+    Copper 1:  C1F (front)
+    Copper 2:  C2
+    Copper 3:  C3
+    Copper 4:  C1B (back)
 
-PCB description: 4 layer PCB 1.6 mm
-    Copper        1   1 oz
-    Dielectric  1-2   7.8 mil
-    Copper        2   0.5 oz
-    Dielectric  2-3   39 mil
-    Copper        3   0.5 oz
-    Dielectric  3-4   7.8 mil
-    Copper        4   1 oz
-FR4 or equivalent substrate (Er=4.2)
-double side solder mask black
-double side silkscreen white
-6 mil min trace width and
-6 mil min isolation
+PCB description: 4 layer PCB 0.0646 in
+    Copper       1:  1 oz copper (1.4 mil)
+    Dielectric 1-2:  6.7 mil prepreg
+    Copper       2:  0.5 oz copper (0.7 mil)
+    Dielectric 2-3:  47 mil core
+    Copper       3:  0.5 oz copper (0.7 mil)
+    Dielectric 3-4:  6.7 mil prepreg
+    Copper       4:  1 oz copper (1.4 mil)
+
+FR408 or similar substrate with Er=3.66 (+/- 0.1)
+double side solder mask
+double side silkscreen
+5 mil min trace width and
+5 mil min isolation
+
+PCBs of this specification are available from OSH Park.
