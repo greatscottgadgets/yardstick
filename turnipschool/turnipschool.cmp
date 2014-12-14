@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-14 BZR 5188)-product   date = Sun 14 Dec 2014 09:49:33 AM MST
+Cmp-Mod V01 Created by Cvpcb (2014-10-14 BZR 5188)-product   date = Sun 14 Dec 2014 02:34:19 PM MST
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -375,6 +375,13 @@ BeginCmp
 TimeStamp = /548DD7D8;
 Reference = R16;
 ValeurCmp = 10k;
+IdModule  = cc1111-legacy:GSG-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /549012D7;
+Reference = R17;
+ValeurCmp = 1.5k;
 IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
