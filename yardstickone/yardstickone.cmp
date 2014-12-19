@@ -1,472 +1,472 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = Wed 25 Jun 2014 01:45:35 AM MDT
+Cmp-Mod V01 Created by Cvpcb (2014-10-14 BZR 5188)-product   date = Thu 18 Dec 2014 11:37:21 PM MST
 
 BeginCmp
 TimeStamp = /504CA3D1;
 Reference = C1;
 ValeurCmp = 1uF;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA8D9;
 Reference = C2;
 ValeurCmp = 100nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAA44;
 Reference = C3;
 ValeurCmp = 220pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA908;
 Reference = C4;
 ValeurCmp = 100nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAA22;
 Reference = C5;
 ValeurCmp = 10nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A02FEE;
 Reference = C6;
 ValeurCmp = 220pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A03005;
 Reference = C7;
 ValeurCmp = 220pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA977;
 Reference = C8;
 ValeurCmp = 10nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA9AD;
 Reference = C9;
 ValeurCmp = 2p2;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA2F0;
 Reference = C10;
 ValeurCmp = 22pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA2F3;
 Reference = C11;
 ValeurCmp = 22pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAEAF;
 Reference = C12;
 ValeurCmp = 47pF;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAECB;
 Reference = C13;
 ValeurCmp = 47pF;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA934;
 Reference = C14;
 ValeurCmp = 100nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAD71;
 Reference = C15;
 ValeurCmp = 1uF;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAD75;
 Reference = C16;
 ValeurCmp = 4u7;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A07269;
 Reference = C17;
 ValeurCmp = 1uF;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A08CB1;
 Reference = C18;
 ValeurCmp = 22nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A179AD;
 Reference = C19;
 ValeurCmp = 220pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A179AB;
 Reference = C20;
 ValeurCmp = 220pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A179AF;
 Reference = C21;
 ValeurCmp = 220pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A179B3;
 Reference = C22;
 ValeurCmp = 220pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A179B0;
 Reference = C23;
 ValeurCmp = 220pF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A055CF;
 Reference = C24;
 ValeurCmp = 1uF;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A0526F;
 Reference = C25;
 ValeurCmp = 22nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A17BEB;
 Reference = C26;
 ValeurCmp = 10nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50C67AAE;
 Reference = C27;
 ValeurCmp = 100nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50C67AC3;
 Reference = C28;
 ValeurCmp = 100nF;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CFCBE;
 Reference = D1;
 ValeurCmp = TVS_DIODE;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CF0C2;
 Reference = D2;
 ValeurCmp = LED1;
-IdModule  = GSG-0603D;
+IdModule  = cc1111-legacy:GSG-0603D;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CFE38;
 Reference = D3;
 ValeurCmp = LED2;
-IdModule  = GSG-0603D;
+IdModule  = cc1111-legacy:GSG-0603D;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CFE70;
 Reference = D4;
 ValeurCmp = LED3;
-IdModule  = GSG-0603D;
+IdModule  = cc1111-legacy:GSG-0603D;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A080D9;
 Reference = FB1;
 ValeurCmp = FILTER;
-IdModule  = GSG-0805;
+IdModule  = cc1111-legacy:GSG-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A0781E;
 Reference = J1;
 ValeurCmp = USB-DEVICE;
-IdModule  = GSG-USB-A-1001-010-01001-SHIELD;
+IdModule  = cc1111-legacy:GSG-USB-A-1001-010-01001-SHIELD;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A02E1C;
 Reference = L1;
 ValeurCmp = 1uH;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /50A08364;
+TimeStamp = /5493DB54;
 Reference = P1;
-ValeurCmp = EXPANSION;
-IdModule  = GSG-HEADER-2x5;
+ValeurCmp = CONN_02X07;
+IdModule  = cc1111-legacy:GSG-HEADER-2x7;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A0883B;
 Reference = P2;
 ValeurCmp = SMA-EDGE;
-IdModule  = GSG-SMA-EDGE;
+IdModule  = cc1111-legacy:GSG-SMA-EDGE;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B57;
 Reference = P3;
 ValeurCmp = RESET_N;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = cc1111-legacy:GSG-TESTPOINT-100MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B60;
 Reference = P4;
 ValeurCmp = DD;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = cc1111-legacy:GSG-TESTPOINT-100MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B62;
 Reference = P5;
 ValeurCmp = DC;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = cc1111-legacy:GSG-TESTPOINT-100MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B63;
 Reference = P6;
 ValeurCmp = 3V3;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = cc1111-legacy:GSG-TESTPOINT-100MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B65;
 Reference = P7;
 ValeurCmp = GND;
-IdModule  = GSG-TESTPOINT-100MIL;
+IdModule  = cc1111-legacy:GSG-TESTPOINT-100MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A089BB;
 Reference = R1;
 ValeurCmp = 4k7;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A089C4;
 Reference = R2;
 ValeurCmp = 4k7;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A08A2F;
 Reference = R3;
 ValeurCmp = 1k;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA84D;
 Reference = R4;
 ValeurCmp = 56k;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CF0D3;
 Reference = R5;
 ValeurCmp = 330;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A06F45;
 Reference = R6;
 ValeurCmp = 4k7;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A02E3C;
 Reference = R7;
 ValeurCmp = 15;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAF08;
 Reference = R8;
 ValeurCmp = 1k5;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAE9B;
 Reference = R9;
 ValeurCmp = 33;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAEA4;
 Reference = R10;
 ValeurCmp = 33;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CFE39;
 Reference = R11;
 ValeurCmp = 330;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CFE6F;
 Reference = R12;
 ValeurCmp = 330;
-IdModule  = GSG-0603;
+IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0B94;
 Reference = R13;
 ValeurCmp = 0;
-IdModule  = GSG-0603-SHORT-10MIL;
+IdModule  = cc1111-legacy:GSG-0603-SHORT-10MIL;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A08A06;
 Reference = R14;
 ValeurCmp = 1k;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A089D4;
 Reference = R15;
 ValeurCmp = 4k7;
-IdModule  = GSG-0402;
+IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504C9FEC;
 Reference = T1;
 ValeurCmp = BALUN;
-IdModule  = GSG-B0310J50100AHF;
+IdModule  = cc1111-legacy:GSG-B0310J50100AHF;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0F40;
 Reference = U1;
 ValeurCmp = CC1111;
-IdModule  = GSG-QFN36;
+IdModule  = cc1111-legacy:GSG-QFN36;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CAD4C;
 Reference = U2;
 ValeurCmp = AP7313;
-IdModule  = GSG-SOT23-3;
+IdModule  = cc1111-legacy:GSG-SOT23-3;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A07267;
 Reference = U3;
 ValeurCmp = DMC2400;
-IdModule  = GSG-SOT563;
+IdModule  = cc1111-legacy:GSG-SOT563;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A02BF4;
 Reference = U4;
 ValeurCmp = RX_AMP;
-IdModule  = GSG-SOT363;
+IdModule  = cc1111-legacy:GSG-SOT363;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A0240B;
 Reference = U5;
 ValeurCmp = SKY13385;
-IdModule  = GSG-SKY13385;
+IdModule  = cc1111-legacy:GSG-SKY13385;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A04042;
 Reference = U6;
 ValeurCmp = SKY13385;
-IdModule  = GSG-SKY13385;
+IdModule  = cc1111-legacy:GSG-SKY13385;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A05129;
 Reference = U7;
 ValeurCmp = TX_AMP;
-IdModule  = GSG-SOT343;
+IdModule  = cc1111-legacy:GSG-SOT343;
 EndCmp
 
 BeginCmp
 TimeStamp = /50A08D09;
 Reference = U8;
 ValeurCmp = DMC2400;
-IdModule  = GSG-SOT563;
+IdModule  = cc1111-legacy:GSG-SOT563;
 EndCmp
 
 BeginCmp
 TimeStamp = /504D0F4F;
 Reference = X1;
 ValeurCmp = CRYSTAL;
-IdModule  = GSG-XTAL-TXC-7A;
+IdModule  = cc1111-legacy:GSG-XTAL-TXC-7A;
 EndCmp
 
 EndListe
