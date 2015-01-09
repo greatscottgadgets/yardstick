@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/mossmann/src/cc11xx/turnipschool/turnipschool.sch)
-    (date "Thu 18 Dec 2014 05:10:56 PM MST")
+    (date "Fri 09 Jan 2015 10:50:13 AM MST")
     (tool "Eeschema (2014-10-14 BZR 5188)-product"))
   (components
     (comp (ref C7)
@@ -18,9 +18,9 @@
       (value 10nF)
       (footprint cc1111-legacy:GSG-0402)
       (fields
-        (field (name Manufacturer) "Samsung Electro-Mechanics America, Inc")
-        (field (name "Part Number") CL05B103KO5NCNC)
-        (field (name Description) "CAP CER 10000PF 16V 10% X7R 0402"))
+        (field (name Manufacturer) Murata)
+        (field (name "Part Number") GRM155R71E103KA01D)
+        (field (name Description) "CAP CER 10000PF 25V 10% X7R 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
       (tstamp 504D4718))
@@ -90,7 +90,7 @@
       (fields
         (field (name Manufacturer) "Samsung Electro-Mechanics America, Inc")
         (field (name "Part Number") CL05A475MQ5NRNC)
-        (field (name Description) "	CAP CER 4.7UF 6.3V 20% X5R 0402"))
+        (field (name Description) "CAP CER 4.7UF 6.3V 20% X5R 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
       (tstamp 504CAD75))
@@ -139,7 +139,7 @@
       (footprint cc1111-legacy:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H2R2CZ01D)
+        (field (name "Part Number") GRM1555C1H2R2CA01D)
         (field (name Description) "CAP CER 2.2PF 50V NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
@@ -381,6 +381,8 @@
     (comp (ref P1)
       (value CONN_1)
       (footprint cc1111-legacy:GSG-50MIL-HEADER-1x1-TH)
+      (fields
+        (field (name Note) DNP))
       (libsource (lib usb2412) (part CONN_1))
       (sheetpath (names /) (tstamps /))
       (tstamp 5390827C))
@@ -398,8 +400,8 @@
       (value USB-DEVICE-SHIELD)
       (footprint cc1111-legacy:GSG-USB-A-1001-010-01001-SHIELD)
       (fields
-        (field (name Manufacturer) "Keystone Electronics")
-        (field (name "Part Number") 931)
+        (field (name Manufacturer) "CNC Tech")
+        (field (name "Part Number") 1001-010-01001)
         (field (name Description) "CONN PLUG USB A-TYPE SMD"))
       (libsource (lib cc1111) (part USB-DEVICE-SHIELD))
       (sheetpath (names /) (tstamps /))
@@ -527,6 +529,8 @@
     (comp (ref P7)
       (value CABLE)
       (footprint cc1111-legacy:GSG-50MIL-HEADER-1x5-TH)
+      (fields
+        (field (name Note) DNP))
       (libsource (lib turnipschool-cache) (part CONN_5))
       (sheetpath (names /) (tstamps /))
       (tstamp 53AF289A))
@@ -778,12 +782,12 @@
   (libraries
     (library (logical device)
       (uri /usr/local/share/kicad/library/device.lib))
-    (library (logical turnipschool-cache)
-      (uri /home/mossmann/src/cc11xx/turnipschool/turnipschool-cache.lib))
     (library (logical cc1111)
       (uri /home/mossmann/src/cc11xx/kicad/cc1111.lib))
     (library (logical usb2412)
-      (uri /home/mossmann/src/cc11xx/kicad/usb2412.lib)))
+      (uri /home/mossmann/src/cc11xx/kicad/usb2412.lib))
+    (library (logical turnipschool-cache)
+      (uri /home/mossmann/src/cc11xx/turnipschool/turnipschool-cache.lib)))
   (nets
     (net (code 1) (name "Net-(R2-Pad1)")
       (node (ref R2) (pin 1))
