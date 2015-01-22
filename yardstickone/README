@@ -3,7 +3,7 @@ YARD Stick One (Yet Another Radio Dongle)
 This is an experimental design for a CC1111 USB dongle.  It is intended to work
 with RfCat:
 
-https://code.google.com/p/rfcat/
+https://bitbucket.org/atlas0fd00m/rfcat
 
 This design was made with KiCad:
 
