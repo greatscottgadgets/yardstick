@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/mossmann/src/cc11xx/turnipschool/turnipschool.sch)
-    (date "Tue 27 Jan 2015 10:15:39 AM MST")
+    (date "Tue 27 Jan 2015 10:21:03 AM MST")
     (tool "Eeschema (2014-10-14 BZR 5188)-product"))
   (components
     (comp (ref C7)
@@ -579,8 +579,8 @@
       (footprint cc1111-legacy:GSG-0402)
       (fields
         (field (name Manufacturer) Rohm)
-        (field (name "Part Number") MCR03ERTF1501)
-        (field (name Description) "RES 1.50K OHM 1/10W 1% 0603 SMD")
+        (field (name "Part Number") MCR01MRTF1501)
+        (field (name Description) "RES SMD 1.5K OHM 1% 1/16W 0402")
         (field (name Note) 1%))
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
