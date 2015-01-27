@@ -71,7 +71,7 @@
     (pad_to_mask_clearance 0.0762)
     (pad_to_paste_clearance_ratio -0.05)
     (aux_axis_origin 0 0)
-    (visible_elements FFFF7FFF)
+    (visible_elements FFFFFF7F)
     (pcbplotparams
       (layerselection 0x010fc_80000007)
       (usegerberextensions true)
@@ -1694,7 +1694,7 @@
   (gr_text TURNIPSCHOOL (at 104.65 87.8) (layer B.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.127)) (justify mirror))
   )
-  (gr_text 2014-12-18 (at 90.85 89.64 90) (layer F.SilkS) (tstamp 548DC564)
+  (gr_text 2015-01-27 (at 90.85 89.64 90) (layer F.SilkS) (tstamp 548DC564)
     (effects (font (size 0.762 0.762) (thickness 0.1524)))
   )
   (gr_line (start 112.5 87.5) (end 112.5 92.5) (angle 90) (layer Edge.Cuts) (width 0.381))
