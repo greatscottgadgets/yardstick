@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-14 BZR 5188)-product   date = Sun 14 Dec 2014 02:34:19 PM MST
+Cmp-Mod V01 Created by Cvpcb (2014-10-14 BZR 5188)-product   date = Tue 27 Jan 2015 10:43:48 AM MST
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -197,8 +197,8 @@ IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /504CF0C2;
-Reference = D2;
+TimeStamp = /54C81FED;
+Reference = D1;
 ValeurCmp = LED1;
 IdModule  = cc1111-legacy:GSG-0603D;
 EndCmp
@@ -281,7 +281,7 @@ IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /504CF0D3;
+TimeStamp = /54C81B97;
 Reference = R3;
 ValeurCmp = 330;
 IdModule  = cc1111-legacy:GSG-0402;
@@ -302,9 +302,9 @@ IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /504CF38E;
+TimeStamp = /54C7D1D6;
 Reference = R6;
-ValeurCmp = 10k;
+ValeurCmp = 100k;
 IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
@@ -368,13 +368,6 @@ BeginCmp
 TimeStamp = /538F2E6A;
 Reference = R15;
 ValeurCmp = 50k;
-IdModule  = cc1111-legacy:GSG-0402;
-EndCmp
-
-BeginCmp
-TimeStamp = /548DD7D8;
-Reference = R16;
-ValeurCmp = 10k;
 IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
