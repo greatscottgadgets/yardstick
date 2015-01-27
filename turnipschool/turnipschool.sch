@@ -685,20 +685,6 @@ F 6 "Ultra Low Profile 0805 Balun 50 to 100 ohm Balanced" H 11850 3700 60  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R6
-U 1 1 504CF38E
-P 8900 5300
-F 0 "R6" V 8980 5300 50  0000 C CNN
-F 1 "10k" V 8900 5300 50  0000 C CNN
-F 2 "cc1111-legacy:GSG-0402" H 8900 5300 60  0001 C CNN
-F 3 "" H 8900 5300 60  0001 C CNN
-F 4 "TE Connectivity" H 8900 5300 60  0001 C CNN "Manufacturer"
-F 5 "1622826-4" H 8900 5300 60  0001 C CNN "Part Number"
-F 6 "RES 10.0K OHM 1/16W 5% 0402" H 8900 5300 60  0001 C CNN "Description"
-	1    8900 5300
-	-1   0    0    1   
-$EndComp
-$Comp
 L 3V3 #PWR028
 U 1 1 504D0F1D
 P 8900 5650
@@ -2060,4 +2046,18 @@ Wire Wire Line
 	7400 5250 7400 3600
 Wire Wire Line
 	7400 3600 7700 3600
+$Comp
+L R R6
+U 1 1 54C7D1D6
+P 8900 5300
+F 0 "R6" V 8980 5300 40  0000 C CNN
+F 1 "100k" V 8907 5301 40  0000 C CNN
+F 2 "cc1111-legacy:GSG-0402" H 8900 5300 60  0001 C CNN
+F 3 "" H 8900 5300 60  0001 C CNN
+F 4 "Samsung Electro-Mechanics America, Inc" H 8900 5300 60  0001 C CNN "Manufacturer"
+F 5 "RC1005J104CS" H 8900 5300 60  0001 C CNN "Part Number"
+F 6 "RES 100K OHM 1/16W 5% 0402" H 8900 5300 60  0001 C CNN "Description"
+	1    8900 5300
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
