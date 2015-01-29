@@ -4,6 +4,9 @@ This is an experimental design for a USB hub + CC1111 dongle hidden within a
 USB plug.  It is intended to work with RfCat:
 https://bitbucket.org/atlas0fd00m/rfcat
 
+TURNIPSCHOOL is part of the NSA Playset:
+http://www.nsaplayset.org/turnipschool
+
 This design was made with KiCad:
 http://www.kicad-pcb.org/
 
