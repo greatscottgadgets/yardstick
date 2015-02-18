@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-14 BZR 5188)-product   date = Fri 19 Dec 2014 10:39:29 AM MST
+Cmp-Mod V01 Created by Cvpcb (2014-10-14 BZR 5188)-product   date = Wed 18 Feb 2015 01:05:33 AM MST
 
 BeginCmp
 TimeStamp = /504CA3D1;
@@ -204,6 +204,13 @@ IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
+TimeStamp = /54E47153;
+Reference = C30;
+ValeurCmp = 1uF;
+IdModule  = cc1111-legacy:GSG-0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /504CFCBE;
 Reference = D1;
 ValeurCmp = TVS_DIODE;
@@ -248,6 +255,13 @@ EndCmp
 BeginCmp
 TimeStamp = /50A02E1C;
 Reference = L1;
+ValeurCmp = 1uH;
+IdModule  = cc1111-legacy:GSG-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E46D5B;
+Reference = L2;
 ValeurCmp = 1uH;
 IdModule  = cc1111-legacy:GSG-0603;
 EndCmp
@@ -302,6 +316,13 @@ IdModule  = cc1111-legacy:GSG-TESTPOINT-100MIL;
 EndCmp
 
 BeginCmp
+TimeStamp = /54E45F2F;
+Reference = Q1;
+ValeurCmp = MOSFET_P;
+IdModule  = sot23:SOT23-3GDS;
+EndCmp
+
+BeginCmp
 TimeStamp = /50A089BB;
 Reference = R1;
 ValeurCmp = 4k7;
@@ -344,10 +365,10 @@ IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /5494B37F;
+TimeStamp = /54E4279D;
 Reference = R7;
 ValeurCmp = 0;
-IdModule  = cc1111-legacy:GSG-0402;
+IdModule  = cc1111-legacy:GSG-0603-SHORT-10MIL;
 EndCmp
 
 BeginCmp
@@ -402,6 +423,20 @@ EndCmp
 BeginCmp
 TimeStamp = /50A089D4;
 Reference = R15;
+ValeurCmp = 4k7;
+IdModule  = cc1111-legacy:GSG-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E45828;
+Reference = R16;
+ValeurCmp = 0;
+IdModule  = cc1111-legacy:GSG-0603-SHORT-10MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E4671E;
+Reference = R17;
 ValeurCmp = 4k7;
 IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
@@ -467,6 +502,13 @@ TimeStamp = /50A08D09;
 Reference = U8;
 ValeurCmp = DMC2400;
 IdModule  = cc1111-legacy:GSG-SOT563;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3F891;
+Reference = U9;
+ValeurCmp = LPF;
+IdModule  = filter:0915LP15B026;
 EndCmp
 
 BeginCmp
