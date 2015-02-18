@@ -19,8 +19,8 @@
 
   (layers
     (0 Front signal)
-    (1 Layer2 signal hide)
-    (2 Layer3 signal hide)
+    (1 Layer2 signal)
+    (2 Layer3 signal)
     (31 Back signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -2049,10 +2049,10 @@
   (gr_text DC (at 74.8538 52.4256) (layer B.SilkS)
     (effects (font (size 1.016 0.762) (thickness 0.1905)) (justify mirror))
   )
-  (gr_text 3V3 (at 68.072 49.911) (layer B.SilkS)
+  (gr_text 3V3 (at 68.326 50.292) (layer B.SilkS) (tstamp 54E44E00)
     (effects (font (size 1.016 0.762) (thickness 0.1905)) (justify mirror))
   )
-  (gr_text GND (at 63.246 51.181) (layer B.SilkS)
+  (gr_text GND (at 62.738 50.546) (layer B.SilkS)
     (effects (font (size 1.016 0.762) (thickness 0.1905)) (justify mirror))
   )
   (gr_text "18 Feb 2015" (at 73.8124 47.1678 90) (layer F.SilkS)
