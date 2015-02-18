@@ -19,8 +19,8 @@
 
   (layers
     (0 Front signal)
-    (1 Layer2 signal)
-    (2 Layer3 signal)
+    (1 Layer2 signal hide)
+    (2 Layer3 signal hide)
     (31 Back signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -3538,6 +3538,21 @@
         (xy 89.689257 41.864546) (xy 90.165199 42.062174) (xy 90.68054 42.062624) (xy 91.156826 41.865827) (xy 91.521546 41.501743)
         (xy 91.69418 41.085991) (xy 91.865173 41.499826) (xy 92.229257 41.864546) (xy 92.705199 42.062174) (xy 93.218 42.062621)
         (xy 93.218 51.763395)
+      )
+    )
+  )
+  (zone (net 0) (net_name "") (layer B.SilkS) (tstamp 54E4503E) (hatch edge 0.508)
+    (connect_pads (clearance 0.254))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.1778) (thermal_bridge_width 0.4064))
+    (polygon
+      (pts
+        (xy 50.038 48.768) (xy 60.706 48.768) (xy 60.706 52.324) (xy 50.038 52.324)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 60.579 52.197) (xy 50.165 52.197) (xy 50.165 48.895) (xy 60.579 48.895) (xy 60.579 52.197)
       )
     )
   )
