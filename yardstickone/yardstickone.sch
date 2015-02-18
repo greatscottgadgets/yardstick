@@ -2369,7 +2369,7 @@ F 4 "Fairchield" H 15300 4150 60  0001 C CNN "Manufacturer"
 F 5 "BSS84" H 15300 4150 60  0001 C CNN "Part Number"
 F 6 "MOSFET P-CH 50V 130MA SOT-23" H 15300 4150 60  0001 C CNN "Description"
 	1    15300 4150
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L R R17
