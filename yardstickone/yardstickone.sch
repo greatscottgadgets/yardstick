@@ -1433,20 +1433,6 @@ F 3 "" H 1700 4200 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R11
-U 1 1 504CFE39
-P 1700 3350
-F 0 "R11" V 1780 3350 50  0000 C CNN
-F 1 "330" V 1700 3350 50  0000 C CNN
-F 2 "cc1111-legacy:GSG-0603" H 1700 3350 60  0001 C CNN
-F 3 "" H 1700 3350 60  0001 C CNN
-F 4 "Stackpole" H 1700 3350 60  0001 C CNN "Manufacturer"
-F 5 "RMCF0603JT330R" H 1700 3350 60  0001 C CNN "Part Number"
-F 6 "RES 330 OHM 1/10W 5% 0603 SMD" H 1700 3350 60  0001 C CNN "Description"
-	1    1700 3350
-	-1   0    0    1   
-$EndComp
-$Comp
 L LED D3
 U 1 1 504CFE38
 P 1700 3900
@@ -2469,4 +2455,18 @@ Text Label 3850 4050 0    40   ~ 0
 P0_0
 Text Notes 8850 9500 0    40   ~ 0
 Do not use P0_0 for anything\nother than antenna port power\ncontrol unless R16 is cut.
+$Comp
+L R R11
+U 1 1 559B82A0
+P 1700 3350
+F 0 "R11" V 1780 3350 50  0000 C CNN
+F 1 "1k5" V 1700 3350 50  0000 C CNN
+F 2 "cc1111-legacy:GSG-0603" H 1700 3350 60  0001 C CNN
+F 3 "" H 1700 3350 60  0001 C CNN
+F 4 "Rohm" H 1700 3350 60  0001 C CNN "Manufacturer"
+F 5 "MCR03ERTF1501" H 1700 3350 60  0001 C CNN "Part Number"
+F 6 "RES 1.50K OHM 1/10W 1% 0603 SMD" H 1700 3350 60  0001 C CNN "Description"
+	1    1700 3350
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
