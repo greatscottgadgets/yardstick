@@ -66,14 +66,14 @@ EndCmp
 BeginCmp
 TimeStamp = /504CA2F0;
 Reference = C10;
-ValeurCmp = 22pF;
+ValeurCmp = 30pF;
 IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /504CA2F3;
 Reference = C11;
-ValeurCmp = 22pF;
+ValeurCmp = 30pF;
 IdModule  = cc1111-legacy:GSG-0402;
 EndCmp
 
