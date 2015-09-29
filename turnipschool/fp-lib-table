@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name cc1111-legacy)(type Legacy)(uri ${KIPRJMOD}/../kicad/cc1111.mod)(options "")(descr ""))
-)
