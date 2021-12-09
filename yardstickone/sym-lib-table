@@ -1,5 +1,5 @@
 (sym_lib_table
   (lib (name yardstickone-cache)(type Legacy)(uri ${KIPRJMOD}/yardstickone-cache.lib)(options "")(descr ""))
-  (lib (name cc1111)(type Legacy)(uri /home/yhetti/annapurna/yhetti/yardstick/kicad/cc1111.lib)(options "")(descr ""))
-  (lib (name usb2412)(type Legacy)(uri /home/yhetti/annapurna/yhetti/yardstick/kicad/usb2412.lib)(options "")(descr ""))
+  (lib (name cc1111)(type Legacy)(uri ${KIPRJMOD}/../kicad/cc1111.lib)(options "")(descr ""))
+  (lib (name usb2412)(type Legacy)(uri ${KIPRJMOD}/../kicad/usb2412.lib)(options "")(descr ""))
 )
