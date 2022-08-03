@@ -1,2 +1,4 @@
 *.bak
 *.bck
+yardstickone/fp-info-cache
+*.kicad_prl

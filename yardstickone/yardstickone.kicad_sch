@@ -5931,7 +5931,7 @@
     (uuid 03aed339-6dff-40f0-a132-abf20eb9083c)
     (property "Reference" "U5" (id 0) (at 250.19 102.87 0))
     (property "Value" "SKY13251" (id 1) (at 250.19 100.33 0))
-    (property "Footprint" "" (id 2) (at 248.92 101.6 0)
+    (property "Footprint" "cc1111:QFN-8-1EP_2x2mm_P0.5mm_Ep0.9x1.3mm" (id 2) (at 248.92 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 248.92 101.6 0)
@@ -5953,7 +5953,7 @@
     (uuid 2b8b0521-7d65-4fd4-81c1-05831dde33be)
     (property "Reference" "U6" (id 0) (at 320.04 132.08 0))
     (property "Value" "SKY13251" (id 1) (at 320.04 135.89 0))
-    (property "Footprint" "" (id 2) (at 321.31 134.62 0)
+    (property "Footprint" "cc1111:QFN-8-1EP_2x2mm_P0.5mm_Ep0.9x1.3mm" (id 2) (at 321.31 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 321.31 134.62 0)
@@ -6397,10 +6397,10 @@
       (reference "U4") (unit 1) (value "RX_AMP") (footprint "cc1111-legacy:GSG-SOT343")
     )
     (path "/03aed339-6dff-40f0-a132-abf20eb9083c"
-      (reference "U5") (unit 1) (value "SKY13251") (footprint "")
+      (reference "U5") (unit 1) (value "SKY13251") (footprint "cc1111:QFN-8-1EP_2x2mm_P0.5mm_Ep0.9x1.3mm")
     )
     (path "/2b8b0521-7d65-4fd4-81c1-05831dde33be"
-      (reference "U6") (unit 1) (value "SKY13251") (footprint "")
+      (reference "U6") (unit 1) (value "SKY13251") (footprint "cc1111:QFN-8-1EP_2x2mm_P0.5mm_Ep0.9x1.3mm")
     )
     (path "/00000000-0000-0000-0000-000050a05129"
       (reference "U7") (unit 1) (value "TX_AMP") (footprint "cc1111-legacy:GSG-SOT343")
