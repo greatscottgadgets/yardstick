@@ -2694,6 +2694,11 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 27f15322-a85e-42b9-9cf8-401af1c2923e)
   )
+  (text "C33, C34, & U7 are all tied to the same via. I don't think that is a problem\nfor C34/U7 (tx amp_en/tx amp), but might not be correct to put C33 there as well?"
+    (at 448.31 114.3 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 3094aa5e-19de-4d97-a889-5b5ca985a459)
+  )
   (text "Do not use P0_0 for anything\nother than antenna port power\ncontrol unless R16 is cut."
     (at 224.79 241.3 0)
     (effects (font (size 1.016 1.016)) (justify left bottom))
