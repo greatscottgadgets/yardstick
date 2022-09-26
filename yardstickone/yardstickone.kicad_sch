@@ -6,9 +6,9 @@
 
   (title_block
     (title "YARD Stick One")
-    (date "2021-12-06")
+    (date "2022-09-06")
     (rev "1")
-    (company "Copyright 2014-2021 Great Scott Gadgets")
+    (company "Copyright 2014-2022 Great Scott Gadgets")
     (comment 1 "License: GPL-V2")
     (comment 2 "https://www.greatscottgadgets.com/yardstickone/")
   )
@@ -2721,21 +2721,6 @@
   (text "RX/TX amp bypass path" (at 304.8 124.46 180)
     (effects (font (size 1.016 1.016)) (justify right bottom))
     (uuid 01082462-cd9d-418c-978a-6ad7297da71d)
-  )
-  (text "What software changes will be neccessary in order to test r2?"
-    (at 449.58 168.91 0)
-    (effects (font (size 2.54 2.54)) (justify left bottom))
-    (uuid 05d9eb4a-5e09-47f2-8a09-c95ac1302cce)
-  )
-  (text "How backwards copmpatible do we want to be? I've moved all footprints to a .kicad_mod format,\nwhich should be compatible back to KiCAD 4."
-    (at 449.58 161.29 0)
-    (effects (font (size 2.54 2.54)) (justify left bottom))
-    (uuid 27f15322-a85e-42b9-9cf8-401af1c2923e)
-  )
-  (text "C33, C34, & U7 are all tied to the same via. I don't think that is a problem\nfor C34/U7 (tx amp_en/tx amp), but might not be correct to put C33 there as well?"
-    (at 448.31 114.3 0)
-    (effects (font (size 2.54 2.54)) (justify left bottom))
-    (uuid 3094aa5e-19de-4d97-a889-5b5ca985a459)
   )
   (text "Do not use P0_0 for anything\nother than antenna port power\ncontrol unless R16 is cut."
     (at 224.79 241.3 0)

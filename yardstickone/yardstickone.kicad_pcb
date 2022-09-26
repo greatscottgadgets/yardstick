@@ -33,7 +33,7 @@
     (pad_to_mask_clearance 0.0762)
     (pad_to_paste_clearance_ratio -0.05)
     (pcbplotparams
-      (layerselection 0x00010f8_80000007)
+      (layerselection 0x00010f8_ffffffff)
       (disableapertmacros false)
       (usegerberextensions true)
       (usegerberattributes true)
