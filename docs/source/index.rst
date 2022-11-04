@@ -8,7 +8,8 @@ Welcome to YARD Stick One's documentation!
 
    yardstickone
    faq
-
+   yardstickone_project_mentions
+   
 .. toctree::
    :maxdepth: 2
    :caption: Firmware
