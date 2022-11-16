@@ -7,7 +7,7 @@
   (paper "User" 152.4 101.6)
   (title_block
     (title "YARD Stick One")
-    (date "2021-12-06")
+    (date "2022-11-16")
     (company "Copyright 2014-2021 Great Scott Gadgets")
     (comment 1 "License: GPL-V2")
     (comment 2 "https://www.greatscottgadgets.com/yardstickone/")
@@ -3711,9 +3711,6 @@
   )
   (gr_text "DD" (at 81.28 51.181) (layer "B.SilkS") (tstamp 446d4047-b448-4e89-b8cd-4a47f0ec81c8)
     (effects (font (size 1.016 0.762) (thickness 0.1905)) (justify mirror))
-  )
-  (gr_text "https://greatscottgadgets.com/" (at 61.90996 37.88918) (layer "B.SilkS") (tstamp 75c23505-58b3-4b85-bc2e-57b795445748)
-    (effects (font (size 1.016 0.762) (thickness 0.15875)) (justify mirror))
   )
   (gr_text "1" (at 90.932 53.086) (layer "B.SilkS") (tstamp c2bb4041-bb74-42b0-95bc-4acd415ed18a)
     (effects (font (size 1.016 0.762) (thickness 0.1905)) (justify mirror))
