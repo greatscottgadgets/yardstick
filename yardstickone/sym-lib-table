@@ -1,5 +1,3 @@
 (sym_lib_table
-  (lib (name "yardstickone-cache")(type "KiCad")(uri "${KIPRJMOD}/yardstickone-cache.kicad_sym")(options "")(descr ""))
-  (lib (name "cc1111")(type "KiCad")(uri "${KIPRJMOD}/../kicad/cc1111.kicad_sym")(options "")(descr ""))
-  (lib (name "usb2412")(type "KiCad")(uri "${KIPRJMOD}/../kicad/usb2412.kicad_sym")(options "")(descr ""))
+  (lib (name "cc1111")(type "KiCad")(uri "${KIPRJMOD}/cc1111.kicad_sym")(options "")(descr ""))
 )
