@@ -345,7 +345,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -442,5 +442,10 @@
       ""
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "DATE": "2023-04-25",
+    "ISSUE_DATE": "25 Apr 2023",
+    "REVISION": "2.0.0",
+    "VERSION": "2.0.0"
+  }
 }
