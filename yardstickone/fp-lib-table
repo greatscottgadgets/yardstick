@@ -1,5 +1,6 @@
 (fp_lib_table
-  (lib (name cc1111-legacy)(type Legacy)(uri ${KIPRJMOD}/../kicad/cc1111.mod)(options "")(descr ""))
-  (lib (name sot23)(type KiCad)(uri ${KIPRJMOD}/../kicad/sot23.pretty)(options "")(descr ""))
-  (lib (name filter)(type KiCad)(uri ${KIPRJMOD}/../kicad/filter.pretty)(options "")(descr ""))
+  (lib (name "cc1111-legacy")(type "Legacy")(uri "${KIPRJMOD}/../kicad/cc1111.mod")(options "")(descr ""))
+  (lib (name "sot23")(type "KiCad")(uri "${KIPRJMOD}/../kicad/sot23.pretty")(options "")(descr ""))
+  (lib (name "filter")(type "KiCad")(uri "${KIPRJMOD}/../kicad/filter.pretty")(options "")(descr ""))
+  (lib (name "cc1111")(type "KiCad")(uri "${KIPRJMOD}/cc1111.pretty")(options "")(descr ""))
 )
