@@ -88,9 +88,7 @@
     )
   )
 
-  (property "DATE" "2023-04-25")
-  (property "ISSUE_DATE" "25 Apr 2023")
-  (property "REVISION" "2.0.0")
+  (property "DATE" "2023-06-12")
   (property "VERSION" "2.0.0")
 
   (net 0 "")
