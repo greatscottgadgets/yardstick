@@ -3057,6 +3057,20 @@
     )
   )
 
+  (footprint "cc1111:HOLE-62MIL" (layer "F.Cu")
+    (tedit 50A9BD37) (tstamp 2cdb2cdc-6e5b-4f18-ad82-8616349ad060)
+    (at 101.6 53.34)
+    (fp_text reference "HOLE-62MIL" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+      (tstamp 23fd6be6-d1ee-43d2-b885-fa88f2c571fe)
+    )
+    (fp_text value "VAL**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+      (tstamp 97934b0a-f7dd-4f7c-950e-876adeafa272)
+    )
+    (pad "" thru_hole circle (at 0 0) (size 1.5748 1.5748) (drill 1.5748) (layers *.Cu *.Mask) (tstamp 9ce5acbf-2fb4-43e3-b2b0-a45c77ec8cb2))
+  )
+
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 302e89c4-98db-4dc8-985c-a91402f570bb)
     (at 65.875 46.5 90)
@@ -3145,6 +3159,20 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+  )
+
+  (footprint "cc1111:HOLE-62MIL" (layer "F.Cu")
+    (tedit 50A9BD37) (tstamp 4d515e98-ae94-44ce-a6e3-e14e994a8037)
+    (at 50.8 53.34)
+    (fp_text reference "HOLE-62MIL" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+      (tstamp b570e769-066b-4692-990a-9c50a098411e)
+    )
+    (fp_text value "VAL**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+      (tstamp 13cec763-f651-4968-b8ee-cd59b9cc0dc3)
+    )
+    (pad "" thru_hole circle (at 0 0) (size 1.5748 1.5748) (drill 1.5748) (layers *.Cu *.Mask) (tstamp 28fc40ac-8a84-4d8d-bdec-5ba6ec31af1d))
   )
 
   (footprint "cc1111:NT_0603_jumper" (layer "F.Cu")
@@ -3530,6 +3558,20 @@
     )
   )
 
+  (footprint "cc1111:HOLE-62MIL" (layer "F.Cu")
+    (tedit 50A9BD37) (tstamp b721660d-fbe4-4b56-9008-670297f23030)
+    (at 50.8 38.1)
+    (fp_text reference "HOLE-62MIL" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+      (tstamp be590b52-30f7-4789-ad28-7ea1fd8da28f)
+    )
+    (fp_text value "VAL**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+      (tstamp 5eb1cf83-d4da-4996-b869-23f0e35ed8a5)
+    )
+    (pad "" thru_hole circle (at 0 0) (size 1.5748 1.5748) (drill 1.5748) (layers *.Cu *.Mask) (tstamp 99e34e54-fdc0-4c53-8dac-0756475d7334))
+  )
+
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp efd58c45-ceb0-4b5f-906d-af3ab6693abf)
     (at 70.21 45.19 -90)
@@ -3573,6 +3615,20 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+  )
+
+  (footprint "cc1111:HOLE-62MIL" (layer "F.Cu")
+    (tedit 50A9BD37) (tstamp f3226ce3-9902-4c32-a219-b7646ed13f4a)
+    (at 101.6 38.1)
+    (fp_text reference "HOLE-62MIL" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+      (tstamp 2b000641-4e72-48fc-ae1b-947ea938482b)
+    )
+    (fp_text value "VAL**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+      (tstamp 15b8699a-6510-465d-9418-adba1207852e)
+    )
+    (pad "" thru_hole circle (at 0 0) (size 1.5748 1.5748) (drill 1.5748) (layers *.Cu *.Mask) (tstamp 1d24431c-4e61-471a-9e55-7deb6307badb))
   )
 
   (footprint "TestPoint:TestPoint_Pad_D2.5mm" (layer "B.Cu")
