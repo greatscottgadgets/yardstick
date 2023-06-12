@@ -2826,7 +2826,7 @@
     )
   )
 
-  (footprint "filter:0915LP15B026" (layer "F.Cu")
+  (footprint "cc1111:0915LP15B026" (layer "F.Cu")
     (tedit 54E44B58) (tstamp 00000000-0000-0000-0000-000054e44b28)
     (at 56.642 45.72 180)
     (property "Description" "FILTER LOWPASS GSM/CDMA 915MHZ")

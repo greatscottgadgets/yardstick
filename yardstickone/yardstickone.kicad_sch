@@ -5730,7 +5730,7 @@
     (property "Value" "LPF" (id 1) (at 361.95 147.32 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "filter:0915LP15B026" (id 2) (at 361.95 140.97 0)
+    (property "Footprint" "cc1111:0915LP15B026" (id 2) (at 361.95 140.97 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 361.95 140.97 0)
@@ -6975,7 +6975,7 @@
       (reference "U8") (unit 1) (value "SSM6L36FE") (footprint "Package_TO_SOT_SMD:SOT-563")
     )
     (path "/00000000-0000-0000-0000-000054e3f891"
-      (reference "U9") (unit 1) (value "LPF") (footprint "filter:0915LP15B026")
+      (reference "U9") (unit 1) (value "LPF") (footprint "cc1111:0915LP15B026")
     )
     (path "/5c9baa09-0d30-45a7-8505-6baf0d98bc28"
       (reference "X1") (unit 1) (value "48 MHz clock") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
