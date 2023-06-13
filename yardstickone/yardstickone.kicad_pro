@@ -443,9 +443,7 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2023-04-25",
-    "ISSUE_DATE": "25 Apr 2023",
-    "REVISION": "2.0.0",
+    "DATE": "2023-06-12",
     "VERSION": "2.0.0"
   }
 }

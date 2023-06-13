@@ -1,0 +1,13 @@
+(footprint "HOLE-62MIL" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 50A9BD37)
+  (fp_text reference "HOLE-62MIL" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+    (tstamp 790a2597-f8f6-42ad-9d21-9a6ac1204a4a)
+  )
+  (fp_text value "VAL**" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+    (tstamp 288f189f-d7eb-429a-b3b4-6cded2631f5d)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.5748 1.5748) (drill 1.5748) (layers *.Mask) (tstamp 09350162-155b-46c3-a9f5-91cfc4d1219f))
+)
