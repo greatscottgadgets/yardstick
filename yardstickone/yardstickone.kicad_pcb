@@ -2229,7 +2229,7 @@
       (die_length 0.08128) (tstamp a96c3a81-2679-4519-a447-1c6b1b751766))
   )
 
-  (footprint "cc1111:CC111-QFN36" (layer "F.Cu")
+  (footprint "cc1111:CC1111-QFN36" (layer "F.Cu")
     (tedit 0) (tstamp 00000000-0000-0000-0000-00005493ca92)
     (at 83.058 48.514 180)
     (property "Description" "IC SUB1GHZ W/MCU USB 32KB 36-QFN")
